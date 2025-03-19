@@ -49,8 +49,9 @@ SQLGenieAgent is a powerful tool that bridges the gap between natural language a
    ```bash
    cp .env.example .env
    # Edit the .env file to include your configuration
-   ```
    OPENAI_API_KEY=your_openai_api_key
+   ```
+
 
 5. Run the application:
 
