@@ -50,11 +50,12 @@ SQLGenieAgent is a powerful tool that bridges the gap between natural language a
    cp .env.example .env
    # Edit the .env file to include your configuration
    ```
+   OPENAI_API_KEY=your_openai_api_key
 
 5. Run the application:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 6. Access the application via a browser at `http://127.0.0.1:5000/`.
